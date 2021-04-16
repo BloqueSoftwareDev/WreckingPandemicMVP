@@ -1,0 +1,45 @@
+fileFormatVersion: 2
+guid: c76ef5b4899e041308ee6b253cfdb00f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Roboto
+  fontNames:
+  - Roboto
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a42a8620e7a554c8ea4370095e6832b5, type: 3}
+  - {fileID: 12800000, guid: 04edde503b27d40ae832dd5fc1b30acf, type: 3}
+  - {fileID: 12800000, guid: 30a9817010b4e4c0e84afb5e7e425db1, type: 3}
+  - {fileID: 12800000, guid: d69406e148c454f9eb529a5942e8b3bc, type: 3}
+  - {fileID: 12800000, guid: 45276ae32029843f38aad77b2b2f4b87, type: 3}
+  - {fileID: 12800000, guid: f92ec5254d1b64448ac251d7641d5ad2, type: 3}
+  - {fileID: 12800000, guid: e072816657ca84209876a8ba7c5fdc8b, type: 3}
+  - {fileID: 12800000, guid: 66a722c62aff64d79bfe8ec20506ecc6, type: 3}
+  - {fileID: 12800000, guid: 523f7aa74da1c49e88e15e99b459581f, type: 3}
+  - {fileID: 12800000, guid: b164d648927024883953d54924e10cc2, type: 3}
+  - {fileID: 12800000, guid: fb3afd7885b1048f88a047f04f92036b, type: 3}
+  - {fileID: 12800000, guid: 34ca63983c47d4f9e80443c479ab4266, type: 3}
+  - {fileID: 12800000, guid: d1d17949bc71543dd862a8e3b056c7fe, type: 3}
+  - {fileID: 12800000, guid: d3d9a9591fb434c12b3d9182b4335291, type: 3}
+  - {fileID: 12800000, guid: 4a75593add46145bfb0e8d0a56bb0431, type: 3}
+  - {fileID: 12800000, guid: e146d93a8bfff4021b97ade382ee3632, type: 3}
+  - {fileID: 12800000, guid: aa755a9afe2864cf89c1d45121116192, type: 3}
+  - {fileID: 12800000, guid: fbe499da8ddc54ebbb87a0116ceb4959, type: 3}
+  - {fileID: 12800000, guid: d50e18fa3211d4668983e51a8be408b4, type: 3}
+  - {fileID: 12800000, guid: 3322d63be344a4905b2181875a3b75c3, type: 3}
+  - {fileID: 12800000, guid: 0b1fb56e434974d08abaf3029ab7c1f3, type: 3}
+  - {fileID: 12800000, guid: 25dd2dae6de7842459ddbff385b166c2, type: 3}
+  - {fileID: 12800000, guid: af7dbdafc0cf446569d700d6bab9cd24, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
